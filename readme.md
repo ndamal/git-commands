@@ -39,3 +39,11 @@ Permet de récupérer les modifications distantes
 courante
 - Les modifications de la branche courante sont placées au dessus des modifications de la branche 
 mere
+
+## git reset 
+- Permet de supprimer un commit 
+- Permet de revenir à un commit défini par son identifiant
+- Attention à utiliser avec precaution
+
+## git diff 
+- Permet de comparer deux commits
