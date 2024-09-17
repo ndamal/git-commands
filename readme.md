@@ -32,3 +32,10 @@
 
 ## git pull
 Permet de récupérer les modifications distantes
+
+## git rebase
+- Permet de récupérer les modifications dans la branche mére 
+- Les modifications de la branche mere sont placées en dessous des modifications de la branche 
+courante
+- Les modifications de la branche courante sont placées au dessus des modifications de la branche 
+mere
